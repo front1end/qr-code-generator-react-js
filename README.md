@@ -6,11 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn install`
+### `npm i`
 
 Instal All dependencies in this project
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -24,7 +24,3 @@ QrCode Tiger Stoplight: https://qrtiger.stoplight.io/docs/qrtiger-api/b3A6NzgwMT
 TailwindCSS: https://tailwindcss.com/
 React Color: https://casesandberg.github.io/react-color/#examples
 File Saver: https://www.npmjs.com/package/file-saver
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/z_CB9-2zzdY)
